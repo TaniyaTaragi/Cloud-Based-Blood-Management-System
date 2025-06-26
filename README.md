@@ -8,10 +8,10 @@ This project was developed as a group project for the subject Cloud Computing an
 The objective was to create a cloud-integrated web application demonstrating the use of cloud services such as AWS EC2 for hosting, along with concepts like scalability, availability, and resource provisioning in a real-world system.
 
 👨‍💻 Contributors
-TaniyaTaragi – Frontend Development, EC2 Deployment, Documentation
-Sumit Deolia – Backend Integration, Database Design
-Lavi Joshi – PHP Logic, Cloud Architecture & Configuration
-Shubham Singh Rawat – UI Design, Testing, Feature Enhancement
+- [**Taniya Taragi**](https://github.com/TaniyaTaragi)
+- [**Sumit Deolia**](https://github.com/sumitdeolia27)
+- [**Lavi Joshi**](https://github.com/Lavijoshi18)
+- [**Shubham Singh Rawat**](https://github.com/ShubhamSinghRawat10)
 
 ## Features
 - User authentication and role-based access
@@ -61,10 +61,7 @@ Use scp or any SFTP client (like FileZilla) to upload your files to /var/www/htm
 Visit: http://<your-ec2-public-ip>
 
 📸 Screenshots
-![Home Page](assets/homepage.png)
-![Admin Panel](assets/admin.png)
-![Request Blood](assets/request.png)
-
+![Home Page](homepage.jpg)
 
 ✨Future Enhancements
 -SMS/Email alerts using AWS Lambda or Twilio
@@ -74,13 +71,13 @@ Visit: http://<your-ec2-public-ip>
 -Audit logging for admin activities
 
 📜License
-This project is open-source and available under the MIT License.
+-This project is open-source and available under the MIT License.
 
 🤝Contributing
-Pull requests are welcome! If you'd like to suggest improvements or report issues, feel free to open an issue.
+-Pull requests are welcome! If you'd like to suggest improvements or report issues, feel free to open an issue.
 
 📬 Contact
-Taniya Taragi
+-Taniya Taragi
 📧 taniyataragi10@gmail.com
 🌐 LinkedIn
 https://www.linkedin.com/in/taniya-taragi-479369326/
