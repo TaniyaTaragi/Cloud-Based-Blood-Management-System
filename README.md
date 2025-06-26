@@ -4,6 +4,7 @@ A centralized, cloud-ready web application that connects **blood donors** and **
 
 ---
 📚 Academic Context
+
 This project was developed as a group project for the subject Cloud Computing and Virtualization during our B.Tech program at Graphic Era Hill University, Haldwani Campus.
 The objective was to create a cloud-integrated web application demonstrating the use of cloud services such as AWS EC2 for hosting, along with concepts like scalability, availability, and resource provisioning in a real-world system.
 
