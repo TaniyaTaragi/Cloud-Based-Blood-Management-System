@@ -8,10 +8,13 @@ This project was developed as a group project for the subject Cloud Computing an
 The objective was to create a cloud-integrated web application demonstrating the use of cloud services such as AWS EC2 for hosting, along with concepts like scalability, availability, and resource provisioning in a real-world system.
 
 👨‍💻 Contributors
--Taniya Taragi – Frontend Development, EC2 Deployment, Documentation
--Sumit Deolia – Backend Integration, Database Design
--Lavi Joshi – PHP Logic, Cloud Architecture & Configuration
--Shubham Singh Rawat – UI Design, Testing, Feature Enhancement
+Name	GitHub Profile	Role
+Taniya Taragi	@TaniyaTaragi	Frontend Development, EC2 Deployment, Documentation
+Sumit Deolia	@sumitdeolia27	Backend Integration, Database Design
+Lavi Joshi	@Lavijoshi18	PHP Logic, Cloud Architecture & Configuration
+Shubham Singh Rawat	@ShubhamSinghRawat10	UI Design, Testing, Feature Enhancement
+
+Special thanks to our faculty for their support and guidance throughout the development of this project.
 
 ## Features
 - User authentication and role-based access
@@ -64,20 +67,22 @@ Visit: http://<your-ec2-public-ip>
 ![Home Page](Home.png)
 
 ✨Future Enhancements
--SMS/Email alerts using AWS Lambda or Twilio
--Geo-location based donor matching
--Real-time blood stock updates using Firebase or sockets
--AI-based suggestion for donation intervals
--Audit logging for admin activities
+  -SMS/Email alerts using AWS Lambda or Twilio
+  -Geo-location based donor matching
+  -Real-time blood stock updates using Firebase or sockets
+  -AI-based suggestion for donation intervals
+  -Audit logging for admin activities
 
 📜License
--This project is open-source and available under the MIT License.
+
+   -This project is open-source and available under the MIT License.
 
 🤝Contributing
--Pull requests are welcome! If you'd like to suggest improvements or report issues, feel free to open an issue.
+
+   -Pull requests are welcome! If you'd like to suggest improvements or report issues, feel free to open an issue.
 
 📬 Contact
--Taniya Taragi
+   -Taniya Taragi
 📧 taniyataragi10@gmail.com
 🌐 LinkedIn
 https://www.linkedin.com/in/taniya-taragi-479369326/
